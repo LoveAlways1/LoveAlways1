@@ -26,7 +26,7 @@ I have worked on projects involving <strong>AWS EKS, Terraform, Helm, GitHub Act
 
 <h2> Core Stack</h2>
 
-<p align="center"><strong>☁️ Cloud & Infrastructure</strong></p>
+<p align="center"><strong> Cloud & Infrastructure</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
@@ -38,7 +38,7 @@ I have worked on projects involving <strong>AWS EKS, Terraform, Helm, GitHub Act
   <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
-<p align="center"><strong>🐳 Containers & Orchestration</strong></p>
+<p align="center"><strong> Containers & Orchestration</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
@@ -47,7 +47,7 @@ I have worked on projects involving <strong>AWS EKS, Terraform, Helm, GitHub Act
   <img src="https://img.shields.io/badge/AWS%20Load%20Balancer%20Controller-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
-<p align="center"><strong>⚙️ CI/CD & Automation</strong></p>
+<p align="center"><strong> CI/CD & Automation</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
@@ -56,7 +56,7 @@ I have worked on projects involving <strong>AWS EKS, Terraform, Helm, GitHub Act
   <img src="https://img.shields.io/badge/YAML-000000?style=flat-square&logo=yaml&logoColor=white" />
 </p>
 
-<p align="center"><strong>🗄️ Databases & Messaging</strong></p>
+<p align="center"><strong> Databases & Messaging</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" />
@@ -66,7 +66,7 @@ I have worked on projects involving <strong>AWS EKS, Terraform, Helm, GitHub Act
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
 </p>
 
-<p align="center"><strong>🧑🏽‍💻 Languages & Scripting</strong></p>
+<p align="center"><strong> Languages & Scripting</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HCL-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
@@ -77,83 +77,107 @@ I have worked on projects involving <strong>AWS EKS, Terraform, Helm, GitHub Act
 
 <hr>
 
-<h2>🚀 Featured Projects</h2>
+<h2> Featured Projects</h2>
 
-<h3>🪨 Project Bedrock — EKS Microservices Platform</h3>
+<h2> Featured Projects</h2>
+
+<h3> Project Bedrock — EKS Microservices Platform</h3>
 
 <strong>Kubernetes · AWS EKS · Terraform · Helm · GitHub Actions · DevOps · CloudWatch</strong>
 
-<br><br>
+<p>
 A production-style AWS EKS deployment for a microservices retail application. This project provisions cloud infrastructure with Terraform, deploys application workloads with Helm, and automates infrastructure delivery through GitHub Actions.
+</p>
 
+<p>
 The platform includes a multi-AZ AWS network, EKS managed node group, RDS databases, DynamoDB, Redis, RabbitMQ, HTTPS ingress through AWS Load Balancer Controller, and serverless file-processing with AWS Lambda.
+</p>
 
-<br>
-
+<p>
 <code>EKS</code> <code>Terraform</code> <code>Helm</code> <code>RDS</code> <code>DynamoDB</code> <code>Redis</code> <code>RabbitMQ</code> <code>Lambda</code> <code>ALB</code> <code>ACM</code> <code>CloudWatch</code> <code>GitHub Actions</code>
+</p>
 
-<br><br>
-
-🔗 <a href="https://github.com/LoveAlways1/project-bedrock-capstone">project-bedrock-capstone</a>
+<p>🔗 <a href="https://github.com/LoveAlways1/project-bedrock-capstone">project-bedrock-capstone</a></p>
 
 <hr>
 
-<h3>🏗️ StartTech Infrastructure — Full-Stack Cloud Infrastructure</h3>
+<h3> MuchToDo — Containerized Application Deployment</h3>
+
+<strong>Docker · Kubernetes · Go · CI/CD · Application Deployment</strong>
+
+<p>
+A containerized application project focused on packaging, running, and deploying application workloads using modern DevOps practices. The project demonstrates container-based development, deployment preparation, and infrastructure-aware application delivery.
+</p>
+
+<p>
+It strengthens practical understanding of Docker workflows, application containerization, environment configuration, and deployment readiness for cloud or Kubernetes-based platforms.
+</p>
+
+<p>
+<code>Docker</code> <code>Kubernetes</code> <code>Go</code> <code>CI/CD</code> <code>Containers</code> <code>DevOps</code>
+</p>
+
+<p>🔗 <a href="https://github.com/LoveAlways1/muchtodo">muchtodo</a></p>
+
+<hr>
+
+<h3> StartTech Infrastructure — Full-Stack Cloud Infrastructure</h3>
 
 <strong>Terraform · AWS · GitHub Actions · S3 · CloudFront · ALB · Auto Scaling · Monitoring</strong>
 
-<br><br>
+<p>
 Terraform-driven AWS infrastructure for a startup-style platform. The project focuses on repeatable infrastructure provisioning, automated deployment, monitoring configuration, and operational scripting.
+</p>
 
+<p>
 The infrastructure includes frontend hosting through S3, backend deployment architecture, load balancing, auto scaling, monitoring support, and CI/CD workflows for automated delivery. CloudFront integration was planned, but AWS account verification restricted distribution creation during deployment, which was documented transparently.
+</p>
 
-<br>
-
+<p>
 <code>Terraform</code> <code>AWS</code> <code>S3</code> <code>CloudFront</code> <code>ALB</code> <code>Auto Scaling</code> <code>CloudWatch</code> <code>GitHub Actions</code> <code>Shell</code>
+</p>
 
-<br><br>
-
-🔗 <a href="https://github.com/LoveAlways1/starttech-infra">starttech-infra</a>
+<p>🔗 <a href="https://github.com/LoveAlways1/starttech-infra">starttech-infra</a></p>
 
 <hr>
 
-<h3>📋 Terraform IaC Assessment — AWS Infrastructure Provisioning</h3>
+<h3> Terraform IaC Assessment — AWS Infrastructure Provisioning</h3>
 
 <strong>Terraform · AWS · Infrastructure as Code</strong>
 
-<br><br>
-
+<p>
 A Terraform-based infrastructure assessment demonstrating foundational cloud provisioning skills. The project shows the use of declarative infrastructure configuration to create and manage AWS resources in a repeatable way.
+</p>
 
+<p>
 This assessment strengthened my understanding of Terraform workflow, provider configuration, resource definition, state handling, and infrastructure documentation.
+</p>
 
-<br>
-
+<p>
 <code>Terraform</code> <code>AWS</code> <code>IaC</code> <code>HCL</code> <code>Cloud Provisioning</code>
+</p>
 
-<br><br>
-
-🔗 <a href="https://github.com/LoveAlways1/month-one-assessment">month-one-assessment</a>
+<p>🔗 <a href="https://github.com/LoveAlways1/month-one-assessment">month-one-assessment</a></p>
 
 <hr>
 
-<h3>🌐 AWS EC2 & S3 Deployment Practice</h3>
+<h3> AWS EC2 & S3 Deployment Practice</h3>
 
 <strong>EC2 · Apache · S3 · Static Hosting · IAM · Security Groups</strong>
 
-<br><br>
-
+<p>
 A practical AWS deployment task involving an Ubuntu EC2 instance, Apache web server configuration, HTTP access through security groups, and S3 object upload with public access configuration.
+</p>
 
+<p>
 This project helped reinforce core AWS fundamentals, including compute provisioning, SSH access, web server setup, storage configuration, permissions, and deployment documentation.
+</p>
 
-<br>
-
+<p>
 <code>EC2</code> <code>Ubuntu</code> <code>Apache</code> <code>S3</code> <code>Security Groups</code> <code>AWS CLI</code>
+</p>
 
-<hr>
-
-<h2>🎯 Current Focus</h2>
+<h2> Current Focus</h2>
 
 <pre>
 ▸ Deepening Kubernetes knowledge: RBAC, namespaces, workloads, and cluster operations
