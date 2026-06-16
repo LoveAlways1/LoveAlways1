@@ -79,8 +79,6 @@ I have worked on projects involving <strong>AWS EKS, Terraform, Helm, GitHub Act
 
 <h2> Featured Projects</h2>
 
-<h2> Featured Projects</h2>
-
 <h3> Project Bedrock — EKS Microservices Platform</h3>
 
 <strong>Kubernetes · AWS EKS · Terraform · Helm · GitHub Actions · DevOps · CloudWatch</strong>
