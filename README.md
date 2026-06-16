@@ -190,11 +190,11 @@ This project helped reinforce core AWS fundamentals, including compute provision
 <h2>📊 GitHub Activity</h2>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LoveAlways1&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LoveAlways1&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoveAlways1&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoveAlways1&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <hr>
