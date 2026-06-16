@@ -14,7 +14,7 @@
 
 <hr>
 
-<h2>👩🏽‍💻 About</h2>
+<h2> About</h2>
 
 I'm a Cloud and DevOps Engineer trained at <strong>AltSchool Africa</strong>, with hands-on experience designing, provisioning, and deploying cloud infrastructure on AWS.
 
@@ -24,7 +24,7 @@ I have worked on projects involving <strong>AWS EKS, Terraform, Helm, GitHub Act
 
 <hr>
 
-<h2>🧰 Core Stack</h2>
+<h2> Core Stack</h2>
 
 <p align="center"><strong>☁️ Cloud & Infrastructure</strong></p>
 
@@ -84,7 +84,6 @@ I have worked on projects involving <strong>AWS EKS, Terraform, Helm, GitHub Act
 <strong>Kubernetes · AWS EKS · Terraform · Helm · GitHub Actions · DevOps · CloudWatch</strong>
 
 <br><br>
-
 A production-style AWS EKS deployment for a microservices retail application. This project provisions cloud infrastructure with Terraform, deploys application workloads with Helm, and automates infrastructure delivery through GitHub Actions.
 
 The platform includes a multi-AZ AWS network, EKS managed node group, RDS databases, DynamoDB, Redis, RabbitMQ, HTTPS ingress through AWS Load Balancer Controller, and serverless file-processing with AWS Lambda.
@@ -104,7 +103,6 @@ The platform includes a multi-AZ AWS network, EKS managed node group, RDS databa
 <strong>Terraform · AWS · GitHub Actions · S3 · CloudFront · ALB · Auto Scaling · Monitoring</strong>
 
 <br><br>
-
 Terraform-driven AWS infrastructure for a startup-style platform. The project focuses on repeatable infrastructure provisioning, automated deployment, monitoring configuration, and operational scripting.
 
 The infrastructure includes frontend hosting through S3, backend deployment architecture, load balancing, auto scaling, monitoring support, and CI/CD workflows for automated delivery. CloudFront integration was planned, but AWS account verification restricted distribution creation during deployment, which was documented transparently.
